@@ -21,13 +21,14 @@ img {
   flex: 1 1 200px;
   justify-content: center;
   text-align: center;
+/* hey big dummy. you could have use waaaaay less and gotten it done. */
 
 
 }
 
 .flex-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 52px ;
 }
 
